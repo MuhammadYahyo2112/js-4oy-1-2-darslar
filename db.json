@@ -1,0 +1,25 @@
+{
+  "phones": [
+    {
+      "id": "1",
+      "image": "https://caviar-phone.ru/_images/27962/1649883533.png",
+      "title": "Iphone 14 Pro Max",
+      "information": "A16 CHIP, 6GB RAM, 1TB",
+      "price": "800$"
+    },
+    {
+      "id": "2",
+      "image": "https://i0.wp.com/cardingcashout.com/wp-content/uploads/2024/08/apple-iphone-15-pro-max-02-1-removebg-preview.png?fit=612%2C408&ssl=1",
+      "title": "Iphone 15 Pro Max",
+      "information": "A18 CHIP, 8GB RAM, 1TB",
+      "price": "1000$"
+    },
+    {
+      "id": "f021",
+      "image": "https://www.apple.com/newsroom/images/2023/09/apple-unveils-iphone-15-pro-and-iphone-15-pro-max/tile/Apple-iPhone-15-Pro-lineup-hero-230912.jpg.news_app_ed.jpg",
+      "title": "Iphone 13 pro Max",
+      "information": "A14 CHIP, 6GB RMA,512GB",
+      "price": "400$"
+    }
+  ]
+}
